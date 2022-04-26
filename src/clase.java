@@ -1,2 +1,2 @@
-public class clase {
+public class clase  {
 }
